@@ -1,0 +1,10 @@
+{
+  "id": 150261884,
+  "created_at": "2026-07-31T07:40:01.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["mixexp", "sjvrensburg.r-universe.dev"]
+}
