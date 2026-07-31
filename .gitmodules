@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/sjvrensburg/sjvrensburg.r-universe.dev
 	branch = HEAD
+[submodule "mixexp"]
+	path = mixexp
+	url = https://github.com/sjvrensburg/mixexp
